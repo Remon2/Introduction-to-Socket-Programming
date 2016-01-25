@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1445554214 source:/home/shaimaa/Documents/code blocks/Client/main.cpp
+	<string.h>
+	<cstring>
+	<unistd.h>
+	<stdio.h>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<strings.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<vector>
+
+1445695997 source:/home/remon/Desktop/still some errors/Client/main.cpp
+	<string.h>
+	<cstring>
+	<unistd.h>
+	<stdio.h>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<strings.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<vector>
+
+1446043311 source:/home/remon/Desktop/NetWork/Client/main.cpp
+	<string.h>
+	<cstring>
+	<unistd.h>
+	<stdio.h>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<strings.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<vector>
+	<time.h>
+
+1445959011 source:/home/remon/Desktop/Client/main.cpp
+	<sstream>
+	<string.h>
+	<cstring>
+	<unistd.h>
+	<stdio.h>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<strings.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<vector>
+

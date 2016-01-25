@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1445695412 source:/home/shaimaa/Documents/code blocks/Server/main.cpp
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<iostream>
+	<fstream>
+	<strings.h>
+	<stdlib.h>
+	<string>
+	<pthread.h>
+	<vector>
+	<sstream>
+
+1446038615 source:/home/remon/Desktop/NetWork/Server/main.cpp
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<iostream>
+	<fstream>
+	<strings.h>
+	<stdlib.h>
+	<string>
+	<pthread.h>
+	<vector>
+	<sstream>
+
